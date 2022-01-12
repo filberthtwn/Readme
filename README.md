@@ -14,7 +14,7 @@ Here's some third party that i used:
 ### Installation
 
 1. Install Pod by running:
-    ```sh
+    ```ruby
     pod install
     ```
 2. Create Config.xcconfig file to put CRYPTO_COMPARE_API_KEY
